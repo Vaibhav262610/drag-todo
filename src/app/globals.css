@@ -31,3 +31,12 @@ body {
     text-wrap: balance;
   }
 }
+
+* {
+  font-family: "Gilroy-Bold", sans-serif;
+}
+
+
+::selection {
+  color: rgb(213, 157, 0);
+}
