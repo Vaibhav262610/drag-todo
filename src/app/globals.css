@@ -6,6 +6,10 @@
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
+  --yellow: #edf67e;
+  --pink: #f896d8;
+  --purple: #ca7df9;
+  --blue: #724CF9;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -35,7 +39,6 @@ body {
 * {
   font-family: "Gilroy-Bold", sans-serif;
 }
-
 
 ::selection {
   color: rgb(213, 157, 0);
